@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo_birleştir.Form1.resources
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo_birleştir.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\tablo birleştir\bin\Debug\tablo birleştir.exe.config
+C:\Users\eda öncel\Desktop\tablo birleştir\bin\Debug\tablo birleştir.exe
+C:\Users\eda öncel\Desktop\tablo birleştir\bin\Debug\tablo birleştir.pdb
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.exe
+C:\Users\eda öncel\Desktop\tablo birleştir\obj\Debug\tablo birleştir.pdb
